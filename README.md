@@ -1,14 +1,14 @@
-# theosintvault | Intelligence Systems & Tooling
+# theosintvault | Intelligence Infrastructure & Systems
 
 Founder of [theosintvault.io](https://theosintvault.io). Engineering high-concurrency discovery engines and standardized investigative frameworks.
 
 ---
 
-### Core Development
-* **[Marlowe](https://github.com)**: Asynchronous platform correlation engine. Targeted at multi-surface entity discovery and recursive footprinting. (Private Alpha)
-* **[Vault Content](https://github.com)**: Structured repository of 2,000+ mapped investigative endpoints and selector logic.
+### Core Infrastructure
+* **[Vault Content](https://github.com)**: Machine-readable repository of 2,000+ investigative endpoints and selector logic.
+* **Technical Research**: Deep-dives into [Advanced Methodologies](https://theosintvault.io) and [Investigative Tips](https://theosintvault.io).
 
-### Proprietary Infrastructure
+### Proprietary Systems 
 
 
 | System | Application |
@@ -19,13 +19,13 @@ Founder of [theosintvault.io](https://theosintvault.io). Engineering high-concur
 | **[Dork Generator](https://theosintvault.io)** | Structured query builder for advanced infrastructure reconnaissance. |
 | **[Bookmarklet Library](https://theosintvault.io)** | Browser-native JavaScript utilities for on-page metadata extraction. |
 
-### Methodology & Training
+### Validation & Training
 * **[Beginner Kit](https://theosintvault.io)**: Fundamental onboarding for entry-level digital discovery.
 * **[Weekly Challenge](https://theosintvault.io)**: Active scenarios for skill validation and methodology testing.
-* **Technical Research**: Deep-dives into [Advanced Methodologies](https://theosintvault.io) and [Investigative Tips](https://theosintvault.io).
 
 ### Technical Status
-* **Current Focus:** Optimizing Marlowe's asynchronous request handling and proxy rotation.
-* **Collaboration:** Open to technical inquiries via [theosintvault.io](https://theosintvault.io).
-* **Environment:** Developing in stealth. No public API access currently available.
+* **Current Focus:** Expanding selector logic for 2026 platform updates and automated discovery workflows.
+* **Environment:** Developing proprietary engines in stealth. No public API access currently available.
+* **Collaboration:** Technical inquiries via [theosintvault.io](https://theosintvault.io).
+
 
