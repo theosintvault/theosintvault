@@ -5,10 +5,11 @@ Founder of [theosintvault.io](https://theosintvault.io). Engineering high-concur
 ---
 
 ### Core Infrastructure
-* **[Vault Content](https://github.com)**: Machine-readable repository of 2,000+ investigative endpoints and selector logic.
+* **[Vault Content](https://github.com)**: Machine-readable repository of 2,000+ mapped investigative endpoints and selector logic.
 * **Technical Research**: Deep-dives into [Advanced Methodologies](https://theosintvault.io) and [Investigative Tips](https://theosintvault.io).
 
-### Proprietary Systems 
+### Proprietary Systems
+
 
 
 | System | Application |
@@ -27,5 +28,3 @@ Founder of [theosintvault.io](https://theosintvault.io). Engineering high-concur
 * **Current Focus:** Expanding selector logic for 2026 platform updates and automated discovery workflows.
 * **Environment:** Developing proprietary engines in stealth. No public API access currently available.
 * **Collaboration:** Technical inquiries via [theosintvault.io](https://theosintvault.io).
-
-
