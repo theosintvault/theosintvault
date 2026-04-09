@@ -1,24 +1,21 @@
-# theosintvault | OSINT Developer
+# 🔍 theosintvault | OSINT Development & Research
 
-Founder of **[The OSINT Vault](https://theosintvault.io)**. Developing browser-native tools and structured investigative workflows for the intelligence community.
+Founder of [theosintvault.io](https://theosintvault.io). Focused on engineering specialized tools for digital discovery and investigative automation.
 
 ---
 
-### 🛠️ Proprietary Tools & Resources
-A suite of privacy-focused utilities for digital discovery and reporting.
+### 🛠️ Active Projects
+*   **[Marlowe](https://github.com):** High-concurrency correlation engine for multi-platform entity extraction. (In Dev)
+*   **[Vault Content](https://github.com):** Machine-readable archive of 2,000+ OSINT endpoints and methodologies.
 
+### 🧪 Proprietary Utilities
 
 | Resource | Purpose |
 | :--- | :--- |
-| **[Google Dork Generator](https://github.com)** | Advanced query builder for infrastructure discovery. |
-| **[Multi-Search Launcher](https://github.com)** | Parallel search orchestrator for multi-platform pivoting. |
-| **[Bookmarklet Library](https://github.com)** | Browser-native JS tools for on-page data extraction. |
-| **[Report Composer](https://github.com)** | Structured workspace for final intelligence reporting. |
-| **[Investigation Notebook](https://github.com)** | Chronological logbook for real-time lead tracking. |
+| **Multi-Search Launcher** | Parallel orchestration for multi-platform pivoting. |
+| **Bookmarklet Library** | Browser-native tools for instant metadata extraction. |
+| **Dork Generator** | Advanced query builder for infrastructure discovery. |
 
----
-
-### 🌐 Project Links
-* **Official Site:** [theosintvault.io](https://theosintvault.io)
-* **OSINT Framework:** Contributor (PR #677)
-* **Philosophy:** All tools are client-side only. No data logging or backend processing of investigative queries.
+### 📬 Connect
+*   **Web:** [theosintvault.io](https://theosintvault.io)
+*   **Status:** Currently building in stealth. Open to technical collaborations.
