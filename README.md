@@ -1,30 +1,43 @@
-# theosintvault | Intelligence Infrastructure & Systems
+# THE OSINT VAULT
+**Intelligence Infrastructure & Standardized Systems**
 
-Founder of [theosintvault.io](https://theosintvault.io). Engineering high-concurrency discovery engines and standardized investigative frameworks.
+I engineer high-concurrency discovery engines designed for scale. My focus is on reducing the time-to-intelligence gap through parallel orchestration and machine-readable investigative logic.
 
 ---
 
-### Core Infrastructure
-* **[Vault Content](https://github.com)**: Machine-readable repository of 2,000+ mapped investigative endpoints and selector logic.
-* **Technical Research**: Deep-dives into [Advanced Methodologies](https://theosintvault.io) and [Investigative Tips](https://theosintvault.io).
+### PROPRIETARY SYSTEMS
 
-### Proprietary Systems
+**Investigation Notebook**
+Secure environment for relational lead tracking and evidence persistence.
+[Repository](https://github.com)
 
+**Report Composer**
+Dynamic intelligence delivery system for standardized OSINT reporting.
+[Repository](https://github.com)
 
+**Multi-Search Launcher**
+Parallel request orchestration for rapid cross-platform pivoting.
+[Repository](https://github.com)
 
-| System | Application |
-| :--- | :--- |
-| **[Investigation Notebook](https://theosintvault.io)** | Secure environment for relational lead tracking and evidence persistence. |
-| **[Report Composer](https://theosintvault.io)** | Dynamic intelligence delivery system for standardized OSINT reporting. |
-| **[Multi-Search Launcher](https://theosintvault.io)** | Parallel request orchestration for rapid cross-platform pivoting. |
-| **[Dork Generator](https://theosintvault.io)** | Structured query builder for advanced infrastructure reconnaissance. |
-| **[Bookmarklet Library](https://theosintvault.io)** | Browser-native JavaScript utilities for on-page metadata extraction. |
+**Dork Generator**
+Structured query builder for advanced infrastructure reconnaissance.
+[Repository](https://github.com)
 
-### Validation & Training
-* **[Beginner Kit](https://theosintvault.io)**: Fundamental onboarding for entry-level digital discovery.
-* **[Weekly Challenge](https://theosintvault.io)**: Active scenarios for skill validation and methodology testing.
+**Bookmarklet Library**
+Browser-native JavaScript utilities for on-page metadata extraction.
+[Repository](https://github.com)
 
-### Technical Status
-* **Current Focus:** Expanding selector logic for 2026 platform updates and automated discovery workflows.
-* **Environment:** Developing proprietary engines in stealth. No public API access currently available.
-* **Collaboration:** Technical inquiries via [theosintvault.io](https://theosintvault.io).
+---
+
+### TECHNICAL STATUS
+
+**Current Focus**
+Expanding selector logic for 2026 platform updates and automated discovery workflows.
+
+**Environment**
+Developing proprietary engines in stealth. No public API access currently available.
+
+---
+
+### CONNECTIVITY
+[theosintvault.io](https://theosintvault.io) | [LinkedIn](https://linkedin.com) | [Archive](https://github.com)
