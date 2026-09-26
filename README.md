@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://theosintvault.io/logo.png" alt="The OSINT Vault Logo" width="180">
+  <img src="logo.png" alt="The OSINT Vault Logo" width="180">
 </p>
 
 # THE OSINT VAULT
