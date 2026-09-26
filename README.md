@@ -7,13 +7,13 @@
 
 ![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-b87333?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-c87d55?style=flat-square)
 
-I build and code what I need when I need it, then release it for free. Everything runs client-side—no tracking, no data saved.
+I build what I need when I need it, then release it for free. Everything runs client-side no tracking, no data saved.
 
 ---
 
 ### PROPRIETARY SYSTEMS
 
-[![Omerta](https://img.shields.io/badge/Omerta-b87333?style=flat-square)](https://theosintvault.io)  
+[![Omertà](https://img.shields.io/badge/Omert%C3%A0-b87333?style=flat-square)](https://theosintvault.io)  
 Web-native entity analysis module for digital footprinting and open-source verification across usernames, emails, phones, and domains.
 
 [![The OSINT Grid](https://img.shields.io/badge/The_OSINT_Grid-b87333?style=flat-square)](https://theosintvault.io)  
@@ -52,5 +52,5 @@ Keeping existing scrapers updated, tightening up UI flows, and coding new tools 
 ### CONNECTIVITY
 
 [![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolehurey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
 [![GitHub](https://img.shields.io/badge/GitHub-theosintvault-da8a67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
