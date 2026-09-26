@@ -5,7 +5,7 @@
 # THE OSINT VAULT
 **Intelligence Infrastructure & Standardized Systems**
 
-![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-b87333?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-c87d55?style=flat-square)
+![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-b87333?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-b87333?style=flat-square)
 
 I build and code what I need when I need it, then release it for free. Everything runs client-side: no tracking, no data saved.
 
@@ -51,6 +51,6 @@ Keeping existing scrapers updated, tightening up UI flows, and coding new tools 
 
 ### CONNECTIVITY
 
-[![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=flat-square&logo=googlechrome&logoColor=white)](https://theosintvault.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-b87333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolehurey)
-[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-b87333?style=flat-square&logo=github&logoColor=white)](https://github.com/theosintvault)
+[![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-b87333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
+[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-b87333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
