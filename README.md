@@ -7,7 +7,7 @@
 
 ![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-b87333?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-c87d55?style=flat-square)
 
-I build what I need when I need it, then release it for free. Everything runs client-side no tracking, no data saved.
+I build and code what I need when I need it, then release it for free. Everything runs client-side: no tracking, no data saved.
 
 ---
 
@@ -45,7 +45,7 @@ Browser-native JavaScript utilities for instant on-page metadata extraction and 
 Keeping existing scrapers updated, tightening up UI flows, and coding new tools whenever I run into a new bottleneck.
 
 **Environment**  
-100% web-native and client-side. Every public tool is accessible straight from the site—no setup, accounts, or API keys needed.
+100% web-native and client-side. Every public tool is accessible straight from the site - no setup, accounts, or API keys needed.
 
 ---
 
