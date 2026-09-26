@@ -1,7 +1,7 @@
 # THE OSINT VAULT
 **Intelligence Infrastructure & Standardized Systems**
 
-![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-ff00ff?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-d946ef?style=flat-square)
+![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-b87333?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-c87d55?style=flat-square)
 
 I build and code what I need when I need it, then release it for free. Everything runs client-side—no tracking, no data saved.
 
@@ -10,43 +10,43 @@ I build and code what I need when I need it, then release it for free. Everythin
 ### PROPRIETARY SYSTEMS
 
 **[Omerta](https://theosintvault.io)**  
-Web-native intelligence module for targeted entity analysis and open-source verification.
+Web-native entity analysis module for digital footprinting and open-source verification across usernames, emails, phones, and domains.
 
 **[The OSINT Grid](https://theosintvault.io)**  
-Structured matrix of investigative pathways, OSINT databases, and targeting workflows.
+Structured directory of 4,500+ verified federal, state, county, court, property, inmate, and business public record search engines.
 
 **[Telltale](https://theosintvault.io)**  
-Command-line tool for stylometric analysis, structural pattern evaluation, and synthetic text detection.
+Command-line utility for stylometric analysis, linguistic pattern evaluation, and synthetic text detection.
 
 **[Investigation Notebook](https://theosintvault.io)**  
-Secure environment for relational lead tracking and evidence persistence.
+Browser-native workspace for relational lead tracking, data parsing, and evidence persistence.
 
 **[Report Composer](https://theosintvault.io)**  
-Dynamic intelligence delivery system for standardized OSINT reporting.
+Dynamic intelligence delivery system for generating standardized, defensible OSINT reports.
 
 **[Multi-Search Launcher](https://theosintvault.io)**  
-Parallel request orchestration for rapid cross-platform pivoting.
+Parallel query engine for multi-tab cross-platform pivoting across custom investigative targets.
 
 **[Google Dork Generator](https://theosintvault.io)**  
-Structured query builder for advanced infrastructure reconnaissance.
+Structured query builder for advanced infrastructure reconnaissance and targeted search operator syntax.
 
 **[Bookmarklet Library](https://theosintvault.io)**  
-Browser-native JavaScript utilities for on-page metadata extraction.
+Browser-native JavaScript utilities for instant on-page metadata extraction and technical analysis.
 
 ---
 
 ### TECHNICAL STATUS
 
 **Current Focus**  
-Expanding selector logic for platform updates, core module optimization, and automated discovery workflows.
+Keeping existing scrapers updated, tightening up UI flows, and coding new tools whenever I run into a new bottleneck.
 
 **Environment**  
-Developing proprietary engines in stealth. Public tools are accessible directly via vault endpoints.
+100% web-native and client-side. Every public tool is accessible straight from the site—no setup, accounts, or API keys needed.
 
 ---
 
 ### CONNECTIVITY
 
-[![Website](https://img.shields.io/badge/Website-theosintvault.io-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-d946ef?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
-[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-e056fd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
+[![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolehurey)
+[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-da8a67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
