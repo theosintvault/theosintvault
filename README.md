@@ -51,6 +51,6 @@ Keeping existing scrapers updated, tightening up UI flows, and coding new tools 
 
 ### CONNECTIVITY
 
-[![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
-[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-da8a67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
+[![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=flat-square&logo=googlechrome&logoColor=white)](https://theosintvault.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-b87333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolehurey)
+[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-b87333?style=flat-square&logo=github&logoColor=white)](https://github.com/theosintvault)
