@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://theosintvault.io/logo.png" alt="The OSINT Vault Logo" width="180">
+</p>
+
 # THE OSINT VAULT
 **Intelligence Infrastructure & Standardized Systems**
 
@@ -15,7 +19,7 @@ Web-native entity analysis module for digital footprinting and open-source verif
 [![The OSINT Grid](https://img.shields.io/badge/The_OSINT_Grid-b87333?style=flat-square)](https://theosintvault.io)  
 Structured directory of 4,500+ verified federal, state, county, court, property, inmate, and business public record search engines.
 
-[![Telltale](https://img.shields.io/badge/Telltale-b87333?style=flat-square)](https://theosintvault.io)  
+[![TELLTALE](https://img.shields.io/badge/TELLTALE-b87333?style=flat-square)](https://theosintvault.io)  
 Command-line utility for stylometric analysis, linguistic pattern evaluation, and synthetic text detection.
 
 [![Investigation Notebook](https://img.shields.io/badge/Investigation_Notebook-b87333?style=flat-square)](https://theosintvault.io)  
@@ -48,5 +52,5 @@ Keeping existing scrapers updated, tightening up UI flows, and coding new tools 
 ### CONNECTIVITY
 
 [![Website](https://img.shields.io/badge/Website-theosintvault.io-b87333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-c87d55?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolehurey)
 [![GitHub](https://img.shields.io/badge/GitHub-theosintvault-da8a67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
