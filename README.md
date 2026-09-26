@@ -1,43 +1,37 @@
 # THE OSINT VAULT
 **Intelligence Infrastructure & Standardized Systems**
 
+![Client Side](https://img.shields.io/badge/100%25-CLIENT--SIDE-ff00ff?style=flat-square) ![No Tracking](https://img.shields.io/badge/DATA_SAVED-ZERO-d946ef?style=flat-square)
+
 I build and code what I need when I need it, then release it for free. Everything runs client-side—no tracking, no data saved.
 
 ---
 
 ### PROPRIETARY SYSTEMS
 
-**Omerta**  
-Web-native intelligence module for targeted entity analysis and open-source verification.  
-[Link](https://theosintvault.io/omerta)
+**[Omerta](https://theosintvault.io)**  
+Web-native intelligence module for targeted entity analysis and open-source verification.
 
-**The OSINT Grid**  
-Structured matrix of investigative pathways, OSINT databases, and targeting workflows.  
-[Link](https://theosintvault.io/osint-grid)
+**[The OSINT Grid](https://theosintvault.io)**  
+Structured matrix of investigative pathways, OSINT databases, and targeting workflows.
 
-**Telltale**  
-Command-line tool for stylometric analysis, structural pattern evaluation, and synthetic text detection.  
-[Link](https://github.com/theosintvault/TELLTALE)
+**[Telltale](https://theosintvault.io)**  
+Command-line tool for stylometric analysis, structural pattern evaluation, and synthetic text detection.
 
-**Investigation Notebook**  
-Secure environment for relational lead tracking and evidence persistence.  
-[Link](https://theosintvault.io/investigation-notebook)
+**[Investigation Notebook](https://theosintvault.io)**  
+Secure environment for relational lead tracking and evidence persistence.
 
-**Report Composer**  
-Dynamic intelligence delivery system for standardized OSINT reporting.  
-[Link](https://theosintvault.io/report-composer)
+**[Report Composer](https://theosintvault.io)**  
+Dynamic intelligence delivery system for standardized OSINT reporting.
 
-**Multi-Search Launcher**  
-Parallel request orchestration for rapid cross-platform pivoting.  
-[Link](https://theosintvault.io/multi-search-launcher)
+**[Multi-Search Launcher](https://theosintvault.io)**  
+Parallel request orchestration for rapid cross-platform pivoting.
 
-**Google Dork Generator**  
-Structured query builder for advanced infrastructure reconnaissance.  
-[Link](https://theosintvault.io/google-dork-generator)
+**[Google Dork Generator](https://theosintvault.io)**  
+Structured query builder for advanced infrastructure reconnaissance.
 
-**Bookmarklet Library**  
-Browser-native JavaScript utilities for on-page metadata extraction.  
-[Link](https://theosintvault.io/osint-bookmarklet-library)
+**[Bookmarklet Library](https://theosintvault.io)**  
+Browser-native JavaScript utilities for on-page metadata extraction.
 
 ---
 
@@ -53,5 +47,6 @@ Developing proprietary engines in stealth. Public tools are accessible directly 
 
 ### CONNECTIVITY
 
-[theosintvault.io](https://theosintvault.io) | [LinkedIn](https://linkedin.com/in/nicolehurey) | [GitHub](https://github.com/theosintvault)
-
+[![Website](https://img.shields.io/badge/Website-theosintvault.io-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theosintvault.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole_Hurey-d946ef?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolehurey)
+[![GitHub](https://img.shields.io/badge/GitHub-theosintvault-e056fd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theosintvault)
